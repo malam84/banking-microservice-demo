@@ -1,0 +1,1 @@
+ALTER TABLE Account ADD CONSTRAINT UC_Account UNIQUE (accno);
